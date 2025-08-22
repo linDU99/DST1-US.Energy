@@ -1,8 +1,19 @@
-#US Energy consumptions
+### US Energy consumptions
 
 by Lin Ma and Vamsi Vundela 
 
-Research Questions:
+#### Research Questions:
+- Visualize patterns of U.S. total energy consumptions (end-use energy and electricity) over time, 1949-2024
+-   + Total end-use energy consumption
+    + Total electricity consumption (end-use)
+    + Energy consumptions by sector: Residential, Commercial, Industrial, and Transportation 
+
+- Forecasting future energy and electricity consumptions through 2025-2030
+- 
+
+
+
+
 Visualize patterns of air quality over time, 2019 – 2024
 
 Identify the patterns of changes in daily air quality by pollutant
