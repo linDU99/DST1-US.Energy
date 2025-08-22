@@ -19,7 +19,7 @@ by Lin Ma and Vamsi Vundela
     + State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
 
 ### Directory Structure:
-- data: Include the raw data files and the cleaned data files for analysis
+- data: Include the raw data files extracted and the cleaned data files for analysis
 - notebooks: The Jupyter Notebook files for data cleaning, EDA exploration, and analysis
 - visuals: The analysis outputs
 
