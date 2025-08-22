@@ -18,6 +18,7 @@ by Lin Ma and Vamsi Vundela
 ##### State level – data: 2000 - 2023
 - State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
 
+
 ### Directory Structure:
 data: Include the downloaded data files – AQI and wildfires and the analysis data files
 notebooks: the Jupyter Notebook files for data cleaning, exploration, and analysis
