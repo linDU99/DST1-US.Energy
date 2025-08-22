@@ -23,7 +23,9 @@ by Lin Ma and Vamsi Vundela
 - notebooks: The Jupyter Notebook files for data cleaning, EDA exploration, and analysis
 - visuals: The analysis outputs
 
-### Analysis Methods:
-
-
 ### Main Findings:
+- U.S. total end-use energy consumption and electricity use have increased as rising in GDP and population from 1949 to 2024.
+- Intensity indicators: 'Energy use per GDP' and 'energy use per capita', which indicate energy efficiency has improved substantially, especially since 1980.
+-  
+
+
