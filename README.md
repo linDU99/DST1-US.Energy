@@ -8,8 +8,8 @@ by Lin Ma and Vamsi Vundela
     + Total electricity consumption (end-use)
     + Energy consumptions by sector: Residential, Commercial, Industrial, and Transportation 
 
-- Forecasting future energy and electricity consumptions through 2025-2030
-- 
+- Forecasting future end-use energy and electricity consumptions through 2025-2030
+- State level: 
 
 
 
