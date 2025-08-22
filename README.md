@@ -1,4 +1,4 @@
-## US Energy consumptions
+## US Energy Consumptions
 
 by Lin Ma and Vamsi Vundela 
 
