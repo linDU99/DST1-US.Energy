@@ -2,7 +2,7 @@
 
 by Lin Ma and Vamsi Vundela 
 
-### Research Questions:
+### Purposes: 
 - Visualize patterns of U.S. total energy consumptions (end-use energy and electricity) over time, 1949-2024
     + Total end-use energy consumption
     + Total electricity consumption (end-use)
