@@ -13,10 +13,10 @@ by Lin Ma and Vamsi Vundela
 
 ### Datasets:
 - Sources:  API of U.S. Energy Information Administration (EIA)
-- U.S. level – data: 1949 - 2024
- + EIA Open Data, Total Energy & indicators: www.eia.gov/opendata/
-- State level – data: 2000 - 2023
- + State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
+- U.S.-level data: 1949 - 2024
+    + EIA Open Data, Total Energy & indicators: www.eia.gov/opendata/
+- State-level data: 2000 - 2023
+    + State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
 
 ### Directory Structure:
 - data: Include the raw data files and the cleaned data files for analysis
