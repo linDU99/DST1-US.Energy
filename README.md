@@ -11,24 +11,16 @@ by Lin Ma and Vamsi Vundela
 - Forecasting future end-use energy and electricity consumptions through 2025-2030
 - State level: 
 
+#### Datasets:
+Sources:  API of U.S. Energy Information Administration (EIA)
+U.S. level – data: 1949 - 2024
+EIA Open Data, Total Energy & indicators: www.eia.gov/opendata/
+State level – data: 2000 - 2023
+State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
+<img width="1255" height="304" alt="image" src="https://github.com/user-attachments/assets/9bf33bbf-2598-4247-a837-1f99fab0bc16" />
 
 
 
-Visualize patterns of air quality over time, 2019 – 2024
-
-Identify the patterns of changes in daily air quality by pollutant
-
-Two most significant pollutants: Ozone and PM2.5
-Compare values of air quality index (AQI) 
-
-By year
-By season
-Visualize patterns of air quality during wildfire events
-
-Investigate the impact of wildfires on the air quality in Colorado
-Datasets:
-The AQI data from AirNow provided by U.S. Environmental Protection Agency (EPA) https://www.epa.gov/outdoor-air-quality-data
-The wildfire data from VIIRS provided by NASA's Fire Information for Resource Management System (FIRMS) https://firms.modaps.eosdis.nasa.gov/
 Directory Structure:
 data: Include the downloaded data files – AQI and wildfires and the analysis data files
 notebooks: the Jupyter Notebook files for data cleaning, exploration, and analysis
