@@ -12,12 +12,12 @@ by Lin Ma and Vamsi Vundela
 - State level: 
 
 #### Datasets:
-Sources:  API of U.S. Energy Information Administration (EIA)
-U.S. level – data: 1949 - 2024
-EIA Open Data, Total Energy & indicators: www.eia.gov/opendata/
-State level – data: 2000 - 2023
-State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
-<img width="1255" height="304" alt="image" src="https://github.com/user-attachments/assets/9bf33bbf-2598-4247-a837-1f99fab0bc16" />
+- Sources:  API of U.S. Energy Information Administration (EIA)
+##### U.S. level – data: 1949 - 2024
+- EIA Open Data, Total Energy & indicators: www.eia.gov/opendata/
+##### State level – data: 2000 - 2023
+- State Energy Data System (SEDS): www.eia.gov/opendata/browser/seds
+
 
 
 
