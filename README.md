@@ -9,7 +9,8 @@ by Lin Ma and Vamsi Vundela
     + Energy consumptions by sector: Residential, Commercial, Industrial, and Transportation 
 
 - Forecasting future end-use energy and electricity consumptions through 2025-2030
-- State level: 
+- State level:
+- By state since 2000: track loss rate (%) and delivered electricity trends, identify key drivers (GDP, population, prices/spending, CDD/HDD), pinpoint the sector driving change, and produce 2024–2030 baseline forecasts with uncertainty.
 
 ### Datasets:
 - Sources:  API of U.S. Energy Information Administration (EIA)
