@@ -27,5 +27,7 @@ by Lin Ma and Vamsi Vundela
 ### Main Findings:
 - U.S. total end-use energy consumption and electricity use have increased as rising in GDP and population from 1949 to 2024.
 - Intensity indicators: 'Energy use per GDP' and 'energy use per capita', which indicate energy efficiency has improved substantially, especially since 1980.   
-
-
+- Accuracy: Gradient Boosting (time-aware CV) predicts state loss rate with MAE 2.38, RMSE 3.30, R² 0.93, MAPE 4.54% on 2022–2023.
+- Insights & forecasts: Since 2000, loss rates show state-specific, gradual shifts; delivered electricity varies widely.
+  Within-state drivers: lag-1 loss rate, CDD/HDD, and prices/spending (GDP & population weaker). 2024–2030 baseline forecasts (Ridge time-trend) are
+  stable→gently drifting and kept within [0,100]%; detailed sector attribution needs a separate decomposition.
